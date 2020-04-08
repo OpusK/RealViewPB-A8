@@ -4,6 +4,7 @@ RealView Platform Baseboard for Coretex-A8
 
 ## Reference
 - [User Guide](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0417d/index.html)
+- [Navilos](https://github.com/navilera/Navilos)
 
 ## Dev. Env.
 - [QEMU](https://www.qemu.org/download/#windows)
